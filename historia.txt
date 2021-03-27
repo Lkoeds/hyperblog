@@ -1,2 +1,3 @@
 Hola soy Andrés Quintero.
-Estoy aprendiendo Git!
+
+Estoy aprendiendo Git con Platzi!
