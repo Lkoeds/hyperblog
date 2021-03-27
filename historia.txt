@@ -1,3 +1,4 @@
-Hola soy Andrés Quintero Sánchez y tengo 24 años.
+Hola soy Andrés Quintero.
+Estoy aprendiendo Git!
 
-Estoy aprendiendo Git con Platzi!
+Mañana no sé qué haré
